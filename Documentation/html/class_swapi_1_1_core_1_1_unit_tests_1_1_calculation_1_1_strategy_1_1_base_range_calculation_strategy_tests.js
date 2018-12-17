@@ -1,0 +1,5 @@
+var class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_base_range_calculation_strategy_tests =
+[
+    [ "CalculateRange_WhenNullInterval_ReturnsNull", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_base_range_calculation_strategy_tests.html#aaaceebbf4e2c19d3b1d80229734ad34b", null ],
+    [ "CalculateRange_WhenUnitMismatch_ThrowsCalculationException", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_base_range_calculation_strategy_tests.html#a820a792469e234712ef7d5723b2fee7c", null ]
+];

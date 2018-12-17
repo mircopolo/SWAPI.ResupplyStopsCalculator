@@ -1,0 +1,6 @@
+var namespace_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy =
+[
+    [ "BaseRangeCalculationStrategyTests", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_base_range_calculation_strategy_tests.html", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_base_range_calculation_strategy_tests" ],
+    [ "ConcreteRangeCalculationStrategyTests", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_concrete_range_calculation_strategy_tests.html", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_concrete_range_calculation_strategy_tests" ],
+    [ "StopsCalculatorTests", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_stops_calculator_tests.html", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_stops_calculator_tests" ]
+];

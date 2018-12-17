@@ -1,0 +1,9 @@
+var namespace_swapi_1_1_core_1_1_calculation_1_1_strategy =
+[
+    [ "BaseRangeCalculationStrategy", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_base_range_calculation_strategy.html", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_base_range_calculation_strategy" ],
+    [ "DailyRangeCalculationStrategy", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_daily_range_calculation_strategy.html", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_daily_range_calculation_strategy" ],
+    [ "MonthlyRangeCalculationStrategy", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_monthly_range_calculation_strategy.html", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_monthly_range_calculation_strategy" ],
+    [ "NullRangeCalculationStrategy", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_null_range_calculation_strategy.html", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_null_range_calculation_strategy" ],
+    [ "WeeklyRangeCalculationStrategy", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_weekly_range_calculation_strategy.html", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_weekly_range_calculation_strategy" ],
+    [ "YearlyRangeCalculationStrategy", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_yearly_range_calculation_strategy.html", "class_swapi_1_1_core_1_1_calculation_1_1_strategy_1_1_yearly_range_calculation_strategy" ]
+];

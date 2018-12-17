@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Swapi.ResupplyStopCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "1000000"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+var class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_range_calculation_strategy_factory_tests =
+[
+    [ "GetRangeCalculationStrategy_ForUnit_ReturnCorrectStrategy", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_range_calculation_strategy_factory_tests.html#a8a39a14b123feb2549e29874fbdab5e6", null ]
+];

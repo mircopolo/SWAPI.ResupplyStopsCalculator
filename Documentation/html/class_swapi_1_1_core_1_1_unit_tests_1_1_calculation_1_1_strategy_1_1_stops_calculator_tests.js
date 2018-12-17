@@ -1,0 +1,6 @@
+var class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_stops_calculator_tests =
+[
+    [ "CalculateTotalStops_WhenRangeCalculationNotNull_ReturnsValidResult", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_stops_calculator_tests.html#a5c5624d9f1475e57a69fa91e4cb93c95", null ],
+    [ "CalculateTotalStops_WhenRangeCalculationNull_ReturnsInvalidResult", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_stops_calculator_tests.html#a466dd4fe837e988bebb4a26b4106038d", null ],
+    [ "CalculateTotalStops_WhenRangeCalculationZero_ThrowsDivideByZeroException", "class_swapi_1_1_core_1_1_unit_tests_1_1_calculation_1_1_strategy_1_1_stops_calculator_tests.html#af36064c526aa5cdcf1ac11537ab05d6e", null ]
+];
